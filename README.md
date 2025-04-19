@@ -2,10 +2,16 @@
 Neural Networks and Deep Learning, NUS CS5242, 2025
 
 
+
+### Course slides for Lectures 7 and 8: 
+https://storage.googleapis.com/xavierbresson/index.html
+
+
+
 <br><br>
 
 
-### Cloud Machine : Google Colab (Free GPU)
+### Cloud Machine: Google Colab (Free GPU)
 
 * Follow this Notebook installation :<br>
 https://colab.research.google.com/github/xbresson/CS5242_2025/blob/main/installation/installation.ipynb
